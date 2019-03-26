@@ -1,3 +1,4 @@
+#测试
 #' Calculate the kernel distance
 #'
 #' This function calculates the kernel distance between an observation and the center of the SVDD.
